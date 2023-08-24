@@ -1,0 +1,11 @@
+@keyframes inf {
+    0%{
+        -webkit-text-stroke: 2px salmon;
+    }
+    50%{
+        -webkit-text-stroke: 2px rgb(123, 0, 255);
+    }
+    100%{
+        -webkit-text-stroke: 2px salmon;
+    }
+}
